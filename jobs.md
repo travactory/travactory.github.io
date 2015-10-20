@@ -6,15 +6,16 @@ permalink: /jobs/
 
 We offer:
 
-+  great atmosphere, openness, flat structure, agile
++  great atmosphere, openness, flat structure
++  agile company
 +  private health care
 +  personal growth budget - you decide what you learn
-+  great office with a parking place for a bike or car
-+  competitive remuneration (Euro)
++  great office with a parking place for a bike or a car
++  competitive salary (Euro)
 +  fridge full of refreshing drinks
 +  contract for an indefinite period from the first day of work
 +  international team
-+  english as an office language
++  English as an office language
 
 &nbsp;
 &nbsp;

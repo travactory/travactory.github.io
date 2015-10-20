@@ -24,6 +24,7 @@ We have offices in Breda(Netherlands), Willemstad(Curaçao) and of course Gdańs
 Our Gdańsk office is placed in newly built [Garnizon Office and Apartment Center](http://garnizon.pl/obiekty-biurowe.html). Great place to work and live (but we only work here trying to live at our homes :) ). It is also well connected.
 
 + Public transportation (SKM, Tram, Bus) - 5 min walk
++ PG, UG - 10 min
 + [Lech Wałęsa Airport](http://www.lechwalesaairport.pl) - 14 min by car
 + [Galeria Bałtycka](http://www.galeriabaltycka.pl/en/) shopping center - 5 min walk
 + kindergarden, medical center, gym
